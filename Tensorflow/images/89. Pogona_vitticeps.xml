@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bearded</folder>
+	<filename>89. Pogona_vitticeps.jpg</filename>
+	<path>C:\tensorflow\windows_v1.8.1\bearded\89. Pogona_vitticeps.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>896</width>
+		<height>574</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bearded</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>62</ymin>
+			<xmax>820</xmax>
+			<ymax>548</ymax>
+		</bndbox>
+	</object>
+</annotation>

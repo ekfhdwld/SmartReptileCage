@@ -1,0 +1,38 @@
+<annotation>
+	<folder>bearded</folder>
+	<filename>48. Step-by-Step-Baby-Bearded-Dragon-Care-Guide-for-Beginner.jpg</filename>
+	<path>C:\tensorflow\windows_v1.8.1\bearded\48. Step-by-Step-Baby-Bearded-Dragon-Care-Guide-for-Beginner.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bearded</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>239</ymin>
+			<xmax>291</xmax>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bearded</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>358</xmin>
+			<ymin>19</ymin>
+			<xmax>490</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bearded</folder>
+	<filename>78. bearded%20dragon%20red%20hypo%20translucent%20dunner%20g%20stripe%20male-500x500.jpg</filename>
+	<path>C:\tensorflow\windows_v1.8.1\bearded\78. bearded%20dragon%20red%20hypo%20translucent%20dunner%20g%20stripe%20male-500x500.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bearded</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>8</ymin>
+			<xmax>381</xmax>
+			<ymax>460</ymax>
+		</bndbox>
+	</object>
+</annotation>

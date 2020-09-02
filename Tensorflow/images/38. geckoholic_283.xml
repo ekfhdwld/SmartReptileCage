@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bearded</folder>
+	<filename>38. geckoholic_283.jpg</filename>
+	<path>C:\tensorflow\windows_v1.8.1\bearded\38. geckoholic_283.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>601</width>
+		<height>401</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bearded</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>38</ymin>
+			<xmax>601</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

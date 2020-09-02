@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bearded</folder>
+	<filename>64. Pogona-microlepidota-thumb.jpg</filename>
+	<path>C:\tensorflow\windows_v1.8.1\bearded\64. Pogona-microlepidota-thumb.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>327</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bearded</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>57</ymin>
+			<xmax>483</xmax>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>

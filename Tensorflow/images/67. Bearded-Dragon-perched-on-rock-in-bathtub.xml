@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bearded</folder>
+	<filename>67. Bearded-Dragon-perched-on-rock-in-bathtub.jpg</filename>
+	<path>C:\tensorflow\windows_v1.8.1\bearded\67. Bearded-Dragon-perched-on-rock-in-bathtub.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>299</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bearded</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>30</ymin>
+			<xmax>478</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bearded</folder>
+	<filename>82. exoticdirect_sexing_your_bearded_dragon.jpg</filename>
+	<path>C:\tensorflow\windows_v1.8.1\bearded\82. exoticdirect_sexing_your_bearded_dragon.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bearded</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>130</ymin>
+			<xmax>805</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bearded</folder>
+	<filename>8. small-bearded-dragon-isolated-on-black-picture_csp26280271.jpg</filename>
+	<path>C:\tensorflow\windows_v1.8.1\bearded\8. small-bearded-dragon-isolated-on-black-picture_csp26280271.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bearded</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>54</ymin>
+			<xmax>356</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

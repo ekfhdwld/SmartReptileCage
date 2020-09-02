@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bearded</folder>
+	<filename>7. healthy-bearded-dragon-long-1024x512.jpg</filename>
+	<path>C:\tensorflow\windows_v1.8.1\bearded\7. healthy-bearded-dragon-long-1024x512.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bearded</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>14</ymin>
+			<xmax>882</xmax>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+</annotation>

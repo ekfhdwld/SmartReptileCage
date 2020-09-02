@@ -1,0 +1,38 @@
+<annotation>
+	<folder>bearded</folder>
+	<filename>80. close-up-of-two-bearded-dragon-on-rock_u-l-q1bm3t40.jpg</filename>
+	<path>C:\tensorflow\windows_v1.8.1\bearded\80. close-up-of-two-bearded-dragon-on-rock_u-l-q1bm3t40.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bearded</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>135</ymin>
+			<xmax>291</xmax>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bearded</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>131</ymin>
+			<xmax>550</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+</annotation>
