@@ -3,7 +3,8 @@
 
 
 ## 시스템 구성도
-<img
+<img src="https://user-images.githubusercontent.com/47026817/155682381-1535a62c-d45d-4351-b166-a0bcc9933bc5.png"/>
+
 
 ## SW 구성 
 - **도마뱀 활동 기록** : 
