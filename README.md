@@ -1,10 +1,13 @@
 # SmartReptileCage
 텐서플로 기반의 영상처리 기술을 활용한 스마트 도마뱀 사육장    
-
-
+  
+  
+  
 ## 시스템 구성도
 <img src="https://user-images.githubusercontent.com/47026817/155682381-1535a62c-d45d-4351-b166-a0bcc9933bc5.png"/>
-
+  
+  
+  
 
 ## SW 구성 
 - **도마뱀 활동 기록** : 
@@ -31,9 +34,9 @@
   - 먹이 급여
   - 커뮤니티
   - 환경설정
-
-
-
+  
+  
+  
 ## 개발환경
 - **Server** : Apache Tomcat 8.0
 - **Language** : Java, C
@@ -42,10 +45,8 @@
 - **OS** : Window 10
 - **Raspberry** : raspbian stretch
 - **API** : Google Map, JDBC
-
-
-
-
-
+  
+  
+  
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/>   
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
